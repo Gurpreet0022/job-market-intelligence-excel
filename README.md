@@ -57,7 +57,7 @@ A/B Testing, Pandas, NumPy, Data Visualization,
 PySpark, AWS, GCP, Hadoop, MIS Reporting
 
 ## Dashboard Preview
-![Dashboard](dashboard/dashboard_screenshot.png)
+![Dashboard](dashboard/Dashboard.png)
 
 ## Key Excel Techniques Used
 - COUNTIF with wildcards for skill detection
